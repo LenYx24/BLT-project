@@ -1,0 +1,2 @@
+# BLT-project
+Informatika verseny
